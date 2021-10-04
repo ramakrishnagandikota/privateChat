@@ -1,5 +1,7 @@
 {
   "name": "privateChat",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
